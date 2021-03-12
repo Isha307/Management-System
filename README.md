@@ -1,2 +1,5 @@
 # Management-System
-Working on management system while learning java and DBMS
+
+Language - JAVA
+Concept - Swing
+Database - MySQL
