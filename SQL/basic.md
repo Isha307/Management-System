@@ -1,6 +1,6 @@
 ## MySql
 
-* Command for InterConnection between your localhost and MySql:
+* Command for creating InterConnection between your localhost and MySql:
  > mysql -u root -p -h 127.0.0.1
  
 * If you kept some username and password for MySql:
@@ -15,4 +15,14 @@
 * Start Using it:
  > use name;
  
+* Creating table:
+ > Create table name(Coloumn1, Coloumn2, .....)
+
+* Inserting into table:
+ > insert into name values('value1', value2, .....)
+ 
+*Note: String will be stored inside single quotes
+
+* Checking the database:
+ > select * from name;
  
