@@ -1,0 +1,5 @@
+Registering mysql driver:-
+
+Class.forName("com.mysql.jdbc.Driver");
+DriverManager.getConnection("jdbc:mysql:///databasename","root","");
+   
