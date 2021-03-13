@@ -1,5 +1,7 @@
 Registering mysql driver:-
-
 Class.forName("com.mysql.jdbc.Driver");
+
+
+Setting the connection:-
 DriverManager.getConnection("jdbc:mysql:///databasename","root","");
    
