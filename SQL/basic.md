@@ -26,3 +26,8 @@
 * Checking the database:
  > select * from name;
  
+* Sorting the table:
+ > select * from table order by coloumn_name;
+
+* Sorting the table in decreasing order:
+ > select * from table order by coloumn_name desc;
