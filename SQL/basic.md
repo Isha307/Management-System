@@ -16,12 +16,12 @@
  > use name;
  
 * Creating table:
- > Create table name(Coloumn1, Coloumn2, .....)
+ > Create table name(Coloumn1 datatype, Coloumn2 datatype, .....)
 
 * Inserting into table:
  > insert into name values('value1', value2, .....)
  
-*Note: String will be stored inside single quotes
+* Note: String will be stored inside single quotes
 
 * Checking the database:
  > select * from name;
