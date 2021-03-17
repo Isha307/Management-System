@@ -32,5 +32,8 @@
 * Sorting the table in decreasing order:
  > select * from table order by coloumn_name desc;
 
+* Sorting according to our preference:
+ > select * from table order by (coloumn, 'value1', 'value2' , 'value3')
+ 
 * Delete the table:
  > delete from table where condition;
