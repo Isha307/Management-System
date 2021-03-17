@@ -91,3 +91,26 @@ FROM
 where(expr|Coloumn1) IS NULL;
 
 
+## LIKE Operator:
+
+Use to search or match Pattern.
+
+Percentage(%) - matches string of 0 or more character.
+
+Underscore( _ ) -matches exactly 1 character.
+
+* SYNTAX:
+
+SELECT
+       
+    Coloumn1, Coloumn2, .....
+    
+FROM
+
+    Table1, Table2, .....
+    
+where Condition like (pattern);
+
+## NOT LIKE Operator:
+
+Opposite of LIKE Operator.
