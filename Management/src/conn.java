@@ -7,7 +7,7 @@
 import java.sql.*;
 /**
  *
- * @author MUNA PRASAD
+ * @author Isha Shaw
  */
 public class conn { 
 public Connection c;
