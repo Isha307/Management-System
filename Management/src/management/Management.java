@@ -7,7 +7,7 @@ package management;
 
 /**
  *
- * @author MUNA PRASAD
+ * @author Isha Shaw
  */
 public class Management {
 
