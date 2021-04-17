@@ -61,6 +61,19 @@ public class details  implements ActionListener {
     public void actionPerformed(ActionEvent ae){
        if(ae.getSource()==b1){
             f.setVisible(false);
+       new Add();
+        }
+        if(ae.getSource()==b2){
+            f.setVisible(false);
+            new View();
+        }
+        if(ae.getSource()==b3){
+            f.setVisible(false);
+            new Remove();
+        }
+        if(ae.getSource()==b4){
+            f.setVisible(false);
+            new Search();
         }
          
     }
