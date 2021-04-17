@@ -62,7 +62,7 @@ class Front implements ActionListener {
 
         if(ae.getSource()==b){
             f.setVisible(false);
-            //new login();    
+              new login();    
         }
     }
 
