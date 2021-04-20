@@ -31,7 +31,7 @@ class Add implements ActionListener{
         id15=new JLabel();
         id15.setBounds(0,0,900,700);
         id15.setLayout(null);
-        ImageIcon img = new ImageIcon(ClassLoader.getSystemResource("Employeee/Images/add_employee.jpg"));
+        ImageIcon img = new ImageIcon(ClassLoader.getSystemResource("Images/add_employee.jpg"));
         id15.setIcon(img);
 
         id8 = new JLabel("New Employee Details");
