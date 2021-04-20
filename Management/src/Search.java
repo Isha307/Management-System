@@ -6,7 +6,7 @@
 
 /**
  *
- * @author MUNA PRASAD
+ * @author Isha Shaw
  */
 import java.awt.*;
 import java.awt.event.*;
@@ -26,7 +26,7 @@ class Search implements ActionListener{
         l5=new JLabel();
         l5.setBounds(0,0,500,270);
         l5.setLayout(null);
-        ImageIcon img=new ImageIcon(ClassLoader.getSystemResource("Employeee/icons/view.jpg"));
+        ImageIcon img=new ImageIcon(ClassLoader.getSystemResource("Images/view.jpg"));
         l5.setIcon(img);
 
 
