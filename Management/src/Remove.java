@@ -6,7 +6,7 @@
 
 /**
  *
- * @author MUNA PRASAD
+ * @author Isha Shaw
  */
 
 import java.sql.*;
@@ -28,7 +28,7 @@ class Remove implements ActionListener{
         l5=new JLabel();
         l5.setBounds(0,0,500,500);
         l5.setLayout(null);
-        ImageIcon img=new ImageIcon(ClassLoader.getSystemResource("Employeee/icons/remove.jpg"));
+        ImageIcon img=new ImageIcon(ClassLoader.getSystemResource("Images/remove.jpg"));
         l5.setIcon(img);
         f.add(l5);
 
