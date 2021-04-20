@@ -6,7 +6,7 @@
 
 /**
  *
- * @author MUNA PRASAD
+ * @author Isha Shaw
  */
 import java.awt.*;
 import java.awt.event.*;
@@ -27,7 +27,7 @@ class View implements ActionListener{
         l1=new JLabel();
         l1.setBounds(0,0,500,270);
         l1.setLayout(null);
-        ImageIcon img=new ImageIcon(ClassLoader.getSystemResource("Employeee/icons/view.jpg"));
+        ImageIcon img=new ImageIcon(ClassLoader.getSystemResource("Images/view.jpg"));
         l1.setIcon(img);
 
 
