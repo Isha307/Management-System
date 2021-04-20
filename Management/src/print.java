@@ -6,7 +6,7 @@
 
 /**
  *
- * @author MUNA PRASAD
+ * @author Isha Shaw
  */
 import java.awt.*;
 import javax.swing.*;
@@ -56,7 +56,7 @@ class Print implements ActionListener{
         id9=new JLabel();
         id9.setBounds(0,0,595,642);
         id9.setLayout(null);
-        ImageIcon img=new ImageIcon(ClassLoader.getSystemResource("Employeee/icons/print.jpg"));
+        ImageIcon img=new ImageIcon(ClassLoader.getSystemResource("Employeee/Images/print.jpg"));
         id9.setIcon(img);
 
         id8 = new JLabel("Employee Details");
