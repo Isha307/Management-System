@@ -6,7 +6,7 @@
 
 /**
  *
- * @author MUNA PRASAD
+ * @author Isha Shaw
  */
 
 import java.awt.*;
@@ -35,7 +35,7 @@ class Update extends Add implements ActionListener{
         id15=new JLabel();
         id15.setBounds(0,0,900,500);
         id15.setLayout(null);
-        ImageIcon img=new ImageIcon(ClassLoader.getSystemResource("Employeee/icons/add_employee.jpg"));
+        ImageIcon img=new ImageIcon(ClassLoader.getSystemResource("Images/add.jpg"));
         id15.setIcon(img);
 
         id8 = new JLabel("Update Employee Detail:");
